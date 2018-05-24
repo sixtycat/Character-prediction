@@ -1,3 +1,3 @@
 # Character-prediction
 
-Predict Characters
+Predict Characters, based on pytorch
